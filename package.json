@@ -1,0 +1,21 @@
+{
+    "name": "one-perfect-vscode",
+    "description": "One Dark and Afterglow Monokai made perfect - for vscode",
+    "version": "0.0.1",
+    "license": "MIT",
+    "engines": {
+        "vscode": "^1.22.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "One Perfect",
+                "uiTheme": "vs-dark",
+                "path": "./themes/One Perfect-color-theme.json"
+            }
+        ]
+    }
+}
