@@ -2,7 +2,7 @@
 
 VSCode made _Perfect_
 
-![C# preview](https://raw.githubusercontent.com/spencersteers/one-perfect-vscode/master/screenshots/preview-cs.png)
+![Preview](https://raw.githubusercontent.com/spencersteers/one-perfect-vscode/master/screenshots/preview.png)
 
 Interface colors loosely based on [One Dark Pro](https://github.com/Binaryify/OneDark-Pro)
 
