@@ -4,6 +4,13 @@
     "publisher": "spencersteers",
     "version": "0.0.1",
     "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/spencersteers/one-perfect-vscode"
+    },
+    "bugs": {
+        "url": "https://github.com/spencersteers/one-perfect-vscode/issues"
+    },
     "engines": {
         "vscode": "^1.22.0"
     },
