@@ -1,6 +1,7 @@
 {
     "name": "one-perfect-vscode",
-    "description": "One Dark and Afterglow Monokai made perfect - for vscode",
+    "description": "VSCode made Perfect",
+    "publisher": "spencersteers",
     "version": "0.0.1",
     "license": "MIT",
     "engines": {
