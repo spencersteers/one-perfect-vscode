@@ -36,6 +36,7 @@
 		"editorHoverWidget.background": "#21252B",
 		"editorHoverWidget.border": "#181A1F",
 		"editorIndentGuide.background": "#3B4048",
+		"editorIndentGuide.activeBackground": "#555A62",
 		"editorLineNumber.foreground": "#65737e",
 		"editorMarkerNavigation.background": "#21252b",
 		"editorOverviewRuler.border": "#17191d",
