@@ -7,5 +7,3 @@ VSCode made _Perfect_
 Interface colors loosely based on [One Dark Pro](https://github.com/Binaryify/OneDark-Pro)
 
 Syntax colors loosely based on [Afterglow Monokai](https://github.com/YabataDesign/afterglow-theme)
-
-This is a port of the Atom version [one-perfect-ui](https://github.com/spencersteers/one-perfect-ui) and [one-perfect-syntax](https://github.com/spencersteers/one-perfect-syntax).
