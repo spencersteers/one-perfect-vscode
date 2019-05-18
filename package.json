@@ -3,6 +3,9 @@
     "description": "VSCode made Perfect",
     "publisher": "spencersteers",
     "version": "0.0.6",
+    "scripts": {
+        "release": "release-it"
+    },
     "license": "MIT",
     "repository": {
         "type": "git",
@@ -25,5 +28,8 @@
                 "path": "./themes/One Perfect-color-theme.json"
             }
         ]
+    },
+    "devDependencies": {
+        "release-it": "^12.2.0"
     }
 }
