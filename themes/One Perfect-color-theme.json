@@ -96,7 +96,7 @@
 		"terminal.ansiYellow": "#daaa78",
 		"terminal.foreground": "#d6d6d5",
 		"titleBar.activeBackground": "#1f2228",
-		"titleBar.activeForeground": "#9da5b4",
+		"titleBar.activeForeground": "#ffffff",
 		"titleBar.border": "#17191d",
 		"titleBar.inactiveBackground": "#1f2228",
 		"titleBar.inactiveForeground": "#6B717D"
