@@ -49,12 +49,12 @@
 		"editorWidget.background": "#21252B",
 		"input.background": "#1d1f23",
 		"list.activeSelectionBackground": "#2a2e37",
-		"list.activeSelectionForeground": "#d7dae0",
+		"list.activeSelectionForeground": "#ffffff",
 		"list.focusBackground": "#383E4A",
 		"list.highlightForeground": "#FFFFFF",
 		"list.hoverBackground": "#292d35",
 		"list.inactiveSelectionBackground": "#2a2e37",
-		"list.inactiveSelectionForeground": "#d7dae0",
+		"list.inactiveSelectionForeground": "#ffffff",
 		"panel.background": "#1f2228",
 		"panel.border": "#17191d",
 		"panelTitle.activeBorder": "#17191d",
@@ -99,7 +99,8 @@
 		"titleBar.activeForeground": "#ffffff",
 		"titleBar.border": "#17191d",
 		"titleBar.inactiveBackground": "#1f2228",
-		"titleBar.inactiveForeground": "#6B717D"
+		"titleBar.inactiveForeground": "#6B717D",
+		"breadcrumb.foreground": "#d7dae0"
 	},
 	"tokenColors": [
 		{
