@@ -2,9 +2,9 @@
     "name": "one-perfect-vscode",
     "description": "VSCode made Perfect",
     "publisher": "spencersteers",
-    "version": "0.0.8",
+    "version": "0.0.9",
     "scripts": {
-        "release": "release-it"
+        "install-extension": "vsce package && find -s ./*.vsix | tail -n 1 | xargs code --install-extension"
     },
     "license": "MIT",
     "repository": {
@@ -25,11 +25,11 @@
             {
                 "label": "One Perfect",
                 "uiTheme": "vs-dark",
-                "path": "./themes/One Perfect-color-theme.json"
+                "path": "./themes/one-perfect.json"
             }
         ]
     },
     "devDependencies": {
-        "release-it": "^12.2.0"
+        "vsce": "^1.95.0"
     }
 }
