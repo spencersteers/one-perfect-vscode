@@ -100,7 +100,7 @@
 		"titleBar.activeForeground": "#ffffff",
 		"titleBar.border": "#17191d",
 		"titleBar.inactiveBackground": "#1f2228",
-		"titleBar.inactiveForeground": "#6B717D",
+		"titleBar.inactiveForeground": "#D7DAE0",
 		"breadcrumb.foreground": "#d7dae0"
 	},
 	"tokenColors": [
