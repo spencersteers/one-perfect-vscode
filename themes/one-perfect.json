@@ -1,5 +1,6 @@
 {
 	"name": "One Perfect",
+	"description": "https://code.visualstudio.com/api/references/theme-color",
 	"colors": {
 		"activityBar.background": "#1f2228",
 		"activityBar.border": "#17191d",
@@ -40,7 +41,8 @@
 		"editorLineNumber.activeForeground": "#eff1f5",
 		"editorLineNumber.foreground": "#65737e",
 		"editorMarkerNavigation.background": "#21252b",
-		"editorOverviewRuler.border": "#17191d",
+		"editorOverviewRuler.border": "#262931",
+		"editorOverviewRuler.background": "#262931",
 		"editorRuler.foreground": "#abb2bf26",
 		"editorSuggestWidget.background": "#21252B",
 		"editorSuggestWidget.border": "#181A1F",
@@ -60,7 +62,7 @@
 		"panel.border": "#17191d",
 		"panelTitle.activeBorder": "#17191d",
 		"peekViewEditor.matchHighlightBackground": "#29244b",
-		"scrollbar.shadow": "#0000004d",
+		"scrollbar.shadow": "#00000000",
 		"scrollbarSlider.activeBackground": "#17191eBB",
 		"scrollbarSlider.background": "#17191eBB",
 		"scrollbarSlider.hoverBackground": "#17191eEE",
