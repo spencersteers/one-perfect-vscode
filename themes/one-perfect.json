@@ -110,7 +110,14 @@
 		"titleBar.inactiveBackground": "#1f2228",
 		"titleBar.inactiveForeground": "#D7DAE0"
 	},
+	"semanticHighlighting": true,
+  "semanticTokenColors": {
+    "annotationMember:java": { "italic": true, "foreground": "#EFF1F5E6" },
+		"class.readonly.typeArgument:java": "#FFDA98",
+		"class:java": "#FFDA98"
+  },
 	"tokenColors": [
+
 		{
 			"name": "Function name",
 			"scope": "entity.name.function",
