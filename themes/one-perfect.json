@@ -8,6 +8,8 @@
 		"activityBarBadge.background": "#4D78CC",
 		"activityBarBadge.foreground": "#F8FAFD",
 		"badge.background": "#262931",
+		"breadcrumb.background": "#23252d",
+		"breadcrumb.foreground": "#d7dae0",
 		"button.background": "#404754",
 		"debugToolBar.background": "#21252b",
 		"diffEditor.insertedTextBackground": "#00809B33",
@@ -79,6 +81,7 @@
 		"statusBar.foreground": "#9da5b4",
 		"statusBar.noFolderBackground": "#21252B",
 		"statusBarItem.hoverBackground": "#2c313a",
+		"editorStickyScroll.background": "#23252d",
 		"tab.activeBackground": "#262931",
 		"tab.border": "#30363d",
 		"tab.hoverBackground": "#262931",
@@ -105,8 +108,7 @@
 		"titleBar.activeForeground": "#ffffff",
 		"titleBar.border": "#30363d",
 		"titleBar.inactiveBackground": "#1f2228",
-		"titleBar.inactiveForeground": "#D7DAE0",
-		"breadcrumb.foreground": "#d7dae0"
+		"titleBar.inactiveForeground": "#D7DAE0"
 	},
 	"tokenColors": [
 		{
