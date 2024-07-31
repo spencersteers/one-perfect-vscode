@@ -2,7 +2,7 @@
     "name": "one-perfect-vscode",
     "description": "VSCode made Perfect",
     "publisher": "spencersteers",
-    "version": "0.0.12",
+    "version": "0.0.13",
     "scripts": {
         "install-extension": "vsce package && find -s ./*.vsix | tail -n 1 | xargs code --install-extension"
     },

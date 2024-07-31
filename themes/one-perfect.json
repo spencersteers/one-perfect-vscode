@@ -11,15 +11,18 @@
 		"breadcrumb.background": "#23252d",
 		"breadcrumb.foreground": "#d7dae0",
 		"button.background": "#404754",
+		"commandCenter.activeBackground": "#1f2228",
+		"commandCenter.background": "#1f2228",
+		"commandCenter.border": "#30363d",
 		"debugToolBar.background": "#21252b",
 		"diffEditor.insertedTextBackground": "#00809B33",
 		"dropdown.background": "#1d1f23",
 		"dropdown.border": "#181A1F",
-		"editor.foreground": "#EFF1F5",
 		"editor.background": "#262931",
 		"editor.findMatchBackground": "#42557B",
 		"editor.findMatchBorder": "#457dff",
 		"editor.findMatchHighlightBackground": "#314365",
+		"editor.foreground": "#EFF1F5",
 		"editor.lineHighlightBackground": "#2e3139",
 		"editor.selectionBackground": "#3392FF44",
 		"editor.selectionHighlightBackground": "#ffffff10",
@@ -45,9 +48,10 @@
 		"editorLineNumber.activeForeground": "#eff1f5",
 		"editorLineNumber.foreground": "#65737e",
 		"editorMarkerNavigation.background": "#21252b",
-		"editorOverviewRuler.border": "#262931",
 		"editorOverviewRuler.background": "#262931",
+		"editorOverviewRuler.border": "#262931",
 		"editorRuler.foreground": "#abb2bf26",
+		"editorStickyScroll.background": "#23252d",
 		"editorSuggestWidget.background": "#21252B",
 		"editorSuggestWidget.border": "#181A1F",
 		"editorSuggestWidget.selectedBackground": "#2c313a",
@@ -61,11 +65,11 @@
 		"list.hoverBackground": "#292d35",
 		"list.inactiveSelectionBackground": "#2a2e37",
 		"list.inactiveSelectionForeground": "#ffffff",
-		"quickInput.foreground": "#ffffff",
 		"panel.background": "#1f2228",
 		"panel.border": "#30363d",
 		"panelTitle.activeBorder": "#30363d",
 		"peekViewEditor.matchHighlightBackground": "#29244b",
+		"quickInput.foreground": "#ffffff",
 		"scrollbar.shadow": "#00000000",
 		"scrollbarSlider.activeBackground": "#17191eBB",
 		"scrollbarSlider.background": "#17191eBB",
@@ -82,7 +86,6 @@
 		"statusBar.foreground": "#9da5b4",
 		"statusBar.noFolderBackground": "#21252B",
 		"statusBarItem.hoverBackground": "#2c313a",
-		"editorStickyScroll.background": "#23252d",
 		"tab.activeBackground": "#262931",
 		"tab.border": "#30363d",
 		"tab.hoverBackground": "#262931",
@@ -112,13 +115,15 @@
 		"titleBar.inactiveForeground": "#D7DAE0"
 	},
 	"semanticHighlighting": true,
-  "semanticTokenColors": {
-    "annotationMember:java": { "italic": true, "foreground": "#EFF1F5E6" },
+	"semanticTokenColors": {
+		"annotationMember:java": {
+			"italic": true,
+			"foreground": "#EFF1F5E6"
+		},
 		"class.readonly.typeArgument:java": "#FFDA98",
 		"class:java": "#FFDA98"
-  },
+	},
 	"tokenColors": [
-
 		{
 			"name": "Function name",
 			"scope": "entity.name.function",
@@ -409,8 +414,6 @@
 				"foreground": "#eff1f5"
 			}
 		},
-
-
 		{
 			"scope": [
 				"source.md"
