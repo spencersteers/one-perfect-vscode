@@ -60,6 +60,7 @@
 		"editorSuggestWidget.selectedBackground": "#2c313a",
 		"editorWhitespace.foreground": "#3B4048",
 		"editorWidget.background": "#21252B",
+		"git.blame.editorDecorationForeground": "#7C7D7F",
 		"input.background": "#1d1f23",
 		"list.activeSelectionBackground": "#2a2e37",
 		"list.activeSelectionForeground": "#ffffff",
